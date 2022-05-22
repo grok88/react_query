@@ -35,6 +35,12 @@
       "image": "/images/canada.jpeg",
       "population": "50 000 000",
       "title": "Turkey"
+    },
+    {
+      "id": 7,
+      "image": "/images/south-korea.jpeg",
+      "population": "111",
+      "title": "11"
     }
   ]
 }
